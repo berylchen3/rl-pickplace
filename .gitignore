@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+env/
+venv/
+*.egg-info/
+
+# Training artifacts
+logs/
+videos/
+checkpoints/
+*.zip
+*.onnx
+*.npy
+*.mp4
+*.pth
+*.pt
+
+# VS Code settings
+.vscode/
+
+# OS trash files
+.DS_Store
+Thumbs.db
